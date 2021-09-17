@@ -12,7 +12,8 @@
 <br>
 
  -  Mon petit portfolio de design: [https://alexandrecharles92.myportfolio.com/)
- -  <p> Voici quelques langages que je "maitrise" mais il faut bien commencer quelque part.
+ - <p> Voici quelques langages que je "maitrise" mais il faut bien commencer quelque part.</p>
+
 <br>
   
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
@@ -23,5 +24,3 @@
 <p align="left">
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
-
-<img  align="center" src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="100">
