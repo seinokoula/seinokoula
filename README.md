@@ -23,7 +23,7 @@
   
 <img src="https://github.com/demartini/demartini/blob/master/code.gif">
   
-<div align="center">
+<div align="left">
     <img src="https://cultofthepartyparrot.com/flags/hd/indiaparrot.gif" width="30" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="30"/>
     <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="30" height="30"/>
