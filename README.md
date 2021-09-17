@@ -1,7 +1,4 @@
-# Hi there 👋
-
-
-**seinokoula/seinokoula** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Bonjour à vous 😁
 
 Here are some ideas to get you started:
 
