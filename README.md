@@ -11,8 +11,8 @@
 
 <br>
 
- -  ☠️☠️☠️☠️☠️👾☠️Mon petit portfolio de design: [https://alexandrecharles92.myportfolio.com/)
- - <p> Voici quelques langages que je "maitrise" mais il faut bien commencer quelque part.</p>
+ - ☠️ Mon petit portfolio de design: [https://alexandrecharles92.myportfolio.com/)
+ -🐟 <p> Voici quelques langages que je "maitrise" mais il faut bien commencer quelque part.</p>
 
 <br>
   
