@@ -22,4 +22,4 @@
   <img src="https://github.com/demartini/demartini/blob/master/code.gif">
 </p>
 
-<h1> <img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="60" /> Hi, welcome! </h1>
+<img src="https://emojis.slackmojis.com/emojis/images/1588315024/8823/hyperkitty.gif?1588315024" width="60" />
