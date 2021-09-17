@@ -25,9 +25,9 @@
   
   
   
-<p align="left">
-  <img src="https://github.com/demartini/demartini/blob/master/code.gif">
-</p>
+
+  <img align="center" src="https://github.com/demartini/demartini/blob/master/code.gif">
+
   
   
   <div align="center">
