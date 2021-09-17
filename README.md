@@ -46,5 +46,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="30" height="30"/>
 </div>
   
-  <p> Si vous passer ici veillez cliquer sur ma vidéo de présentation </p>
-  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="YouTube" height="32" width="32" src="assets/youtube.svg"></a>
+  <br>
+  
+<p> Si vous passer ici veillez cliquer sur ma vidéo de présentation </p>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="YouTube" height="32" width="32" src="assets/youtube.svg"></a>
