@@ -48,4 +48,8 @@
   
   <p> Si vous passer ici veillez cliquer sur ma vidéo de présentation </p>
   <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="YouTube" height="32" width="32" src="assets/youtube.svg"></a>
+  
+    <a href="#"><img alt="Epic Games - PeterTheHan" title="Epic Games - PeterTheHan" height="32" width="32" src="assets/epicgames.svg"></a>
+  <a href="#"><img alt="PlayStation - PeterTheHan" title="PlayStation - PeterTheHan" height="32" width="32" src="assets/playstation.svg"></a>
+  <a href="https://stadia.com/profile/1536559313706186034"><img alt="Stadia - Phos" height="32" width="32" src="assets/stadia.svg"></a>
 
