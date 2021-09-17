@@ -15,11 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 
 
-#monkindey { 
-  position: Hángzhōu; 
-  height: 171cm; 
-  display: boy; 
-  background: Tinker Resolver 🔨; 
-  color: yellow 
-}
 
