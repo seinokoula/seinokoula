@@ -50,5 +50,4 @@
   
 <p> Si vous passer ici veillez cliquer sur ma vidéo de présentation </p>
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="YouTube" height="32" width="32" src="assets/youtube.svg"></a>
-  
-   <a href="#"><img alt="Warframe - Sumia" title="Warframe - Sumia" height="32" width="32" src="assets/warframe.svg"></a>
+
