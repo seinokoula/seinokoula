@@ -8,7 +8,7 @@
 
 <p align="center"><img src="https://i.giphy.com/RThN0hOS2GO4M.gif" /></p>
 
-<h3> Le début d'une longue vie </h3>
+<h3 align="center"> Le début d'une longue vie </h3>
 
 <br>
 
