@@ -1,4 +1,4 @@
-<div align="center"> # Bonjour à vous <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<div align="center"># Bonjour à vous <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   </div>
 <p align="center">
 
