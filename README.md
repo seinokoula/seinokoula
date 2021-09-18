@@ -1,5 +1,5 @@
-<div align="center"># Bonjour à vous <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
-  </div>
+<h2 align="center"> Bonjour à vous <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+  </h2>
 <p align="center">
 
 <p align="center">
