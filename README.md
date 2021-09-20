@@ -1,4 +1,3 @@
-![youtube](https://user-images.githubusercontent.com/69220045/134001563-970019bb-646b-43ac-87e4-5469d5acd81a.png)
 <h2 align="center"> Bonjour à vous <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
   </h2>
 <p align="center">
@@ -51,7 +50,8 @@
   <br>
   
 <p> Si vous passer ici veillez cliquer sur ma vidéo de présentation </p>
+  ![youtube](https://user-images.githubusercontent.com/69220045/134001563-970019bb-646b-43ac-87e4-5469d5acd81a.png)
  <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="YouTube" height="32" width="32" src="assets/![youtube](https://user-images.githubusercontent.com/69220045/134001516-a1ec90d1-cdf7-4fc4-97d8-137c6acce9f2.png)"></a>
   
-  [![YouTube](icons/youtube.png)](https://youtube.com/user/hussainweb)
+
 
