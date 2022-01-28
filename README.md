@@ -12,7 +12,7 @@
 
 <br>
 
- - ☠️  Mon petit portfolio de design: (https://alexandrecharles92.myportfolio.com/)
+ - ☠️  Mon petit portfolio de design: (https://alexandre-charles.fr/)
  - 🔭  Voici quelques langages que je "maitrise". 
 
 <br>
