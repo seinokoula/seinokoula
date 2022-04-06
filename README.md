@@ -12,7 +12,7 @@
 
 <br>
 
- - ☠️  Mon petit portfolio de design: (https://alexandre-charles.fr/)
+ - ☠️  Mon petit portfolio de design : (https://alexandre-charles.fr/)
  - 🔭  Voici quelques langages que je "maitrise". 
 
 <br>
@@ -50,5 +50,5 @@
   
   <br>
   
-<p> Si vous passer ici veillez cliquer sur ma vidéo de présentation </p>
- <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ"><img alt="YouTube" height="32" width="32" src="assets/![youtube](https://user-images.githubusercontent.com/69220045/134001516-a1ec90d1-cdf7-4fc4-97d8-137c6acce9f2.png)"></a>
+<p> Si vous passez ici, veuillez cliquer sur ma vidéo de présentation </p>
+ <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ">
